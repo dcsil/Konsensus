@@ -1,6 +1,6 @@
 # Safa Al-Siaudi
 
-![Safa Al-Siaudi](./safa_al-siaudi.jpg)
+![Safa Al-Siaudi](./safa_al-siaudi.jpeg)
 
 - Software Developer
 - safa.alsiaudi@mail.utoronto.ca
