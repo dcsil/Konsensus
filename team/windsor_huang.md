@@ -1,5 +1,7 @@
 # Windsor Huang
 
+<img src="./windsor_huang.JPG" alt="Windsor Huang Profile" width="300"/>
+
 - Software Developer
 - windsor.huang@mail.utoronto.ca
 
