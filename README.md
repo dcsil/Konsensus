@@ -1,6 +1,6 @@
 # KONSENSUS
 
-![Team Logo](./konsensus.png)
+<img src="./konsensus.png" alt="Team Logo" width="500"/>
 
 Konsensus is a company founded in the Blockchain industry.
 
