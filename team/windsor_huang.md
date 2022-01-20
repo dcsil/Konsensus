@@ -12,7 +12,7 @@
 
 ## About Windsor
 
-Windsor currently studies computer science and statistics at the University of Toronto. He has experience in fullstack software engineering and in UI/UX development. He currently works part time at a VC firm in San Francisco.  In his spare time, Windsor playing video games and board games with his friends, cooking, and drawing.![image](https://user-images.githubusercontent.com/42529415/150242933-0e019186-054e-4e18-a59a-199d2016c0d3.png)
+Windsor currently studies computer science and statistics at the University of Toronto. He has experience in fullstack software engineering and in UI/UX development. He currently works part time at a VC firm in San Francisco.  In his spare time, Windsor playing video games and board games with his friends, cooking, and drawing.
 
 ## Strengths
 
