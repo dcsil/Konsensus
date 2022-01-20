@@ -1,14 +1,13 @@
 # Team Principles
 
 ## Communication
-- Team to schedule meetings, delegate assignment tasks and maintain progress of all members. 
+- Team members will mainly communicate using a private slack channel: konsensus.
+- The channel will be used to schedule meetings, delegate assignment tasks and maintain progress of all members. 
 - On specific issues and questions, the relevant members should be tagged in the initial message and follow up responses should be kept within the same thread.
 - General questions can be directed to the group at large.  
 - Thumbs up/down and other friendly reactions are encouraged to acknowledge important questions and answers.
-- Members are expected to check the group at least every other day - members unable to do so are expected to notify the team in advance.
-  
-**Emergencies**: In an emergency, all members members will mainly communicate using a private slack channel: TBD
-The channel will be used have each other's contact information. These mediums of communication are to only be used in rare cases. 
+- Members are expected to check the group at least once a day (Monday-Friday) - members unable to do so are expected to notify the team in advance.
+- **Emergencies**: In an emergency, all members have each other's contact information. These mediums of communication are to only be used in rare cases. 
 
 The main aim of these expectations is to foster a productive, inclusive and respectful environment where every member can leverage their strengths and grow. 
 
@@ -21,7 +20,7 @@ However, if they are unable to make a meeting, they must let other attendees kno
 
 ## Work
 - While tasks will be delegated to individuals, we are all there to support each other on course related work - submissions reflect our work as a group.  
-- Any course related work will be delegated based on an individual’s experience and preference. Assigned work will be detailed on github issues. 
+- Any course related work will be delegated based on an individual’s experience and preference. Assigned work will be detailed on Github Issues. 
 - In emergencies or if any assigned work proves to be more challenging, member(s) responsible for that task are expected to notify the team as soon as possible.
 - Members are expected to complete assigned tasks within a reasonable time frame in order to allow other members to review, discuss, and amend before implementation. Pull requests on Github will be used to coordinate this.
   
