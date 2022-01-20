@@ -3,6 +3,7 @@
 ![Team Logo](./konsensus.png)
 
 Konsensus is a company founded in the Blockchain industry.
+
 Table of Contents
 ---
 
