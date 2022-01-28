@@ -1,28 +1,48 @@
-Diversity
----
+# Diversity
 
-Diversity is ... Intro Statement
+Konsensus is committed to fostering an environment of inclusion, collaboration, and kindness. 
+Diverse mindsets and experiences enable us to empathize with different customers and create a richer team culture.
 
 
-Team Background
----
+## Team Background
 
-Our team has a varied background. We have people from multiple continents who speak many languages combined....
+### Areas of Expertise
+All six members of our team are undergraduate students who specialize in Computer Science at the University of Toronto, and as a result all members of our team - including our business team members - have very strong engineering backgrounds. In addition, we have a wealth of industry experience to support our team, ranging from well-known companies such as Facebook 1Password as well as small-mid size companies. In terms of specific skill sets, Shang and Kevin are experts in backend programming while Windsor and Stella have considerable experience in developing front-end applications. Safa’s work gave her experience in data engineering and systems integration and Qi has done the most work related to data manipulation and analysis. Combined, we have a diverse range of software engineering expertise and feel prepared to make well-informed technical decisions.
+
+Outside of software engineering, Windsor has experience in the venture capital space as he has been working at a VC firm in San Francisco for the past two years and can contribute insights into bringing the product to market and pitching to investors. He also has some blockchain experience where he previously worked at a New York-based quant firm that specializes in distributed ledger technology. Kevin has a keen interest for videography and excels in visual storytelling. Stella and Safa are both excellent writers and can complement Kevin’s visual storytelling with written storytelling. Multiple members are passionate about design and have experience turning ideas and user feedback into polished user interfaces.
+
+### Areas Lacking Expertise
+A core weakness of our team is our lack of business experience - particularly in terms of public speaking and research. Outside of Windsor, who has some experience building financial models and leading startups, the remainder of the team has had little first hand experience in many of the business related aspects of our project. Despite this, we recognize the learning opportunity present and want to leverage our individual circle of competencies to mitigate our weaknesses. For instance, because of Kevin's video editing experience, he can help guide our pitches, as well as other visuals so that we can connect more strongly with audiences. Likewise, Windsor and Qi’s experience with startups and data analysis will allow them to guide research, differentiating valuable and invaluable data from one another.
+
+Our team also does not have any experience working with blockchain. For a few members, these courses have been the first time they’ve interacted with blockchain. Windsor does have some minor experience, as he has worked at a blockchain focused quant firm and tinkered with smart contracts in Solidity. Despite this, the whole team is very eager to learn and plan to utilize the available resources to guide our project. 
 
 ## Strengths & Weaknesses
 
-Our team has....
-
 ### Subject Matter Experts
 
-Subject matter experts (SMEs) who can help us address our expertise gaps are...
+Our primary form of contact to bridge our gap in business knowledge is our instructor, Mario Grech. Due to his vast entrepreneurship experience, he will be our best resource for this startup over the semester. In addition, although we all have engineering internships under our belt, Julian’s expertise resulting from his time in the industry is still extremely beneficial to us. His guidance is valuable when we need to consider the bigger picture and make decisions foreign to us as we are still early in our career. We will be sure to communicate frequently and schedule teaching staff meetings to address any questions we may have. 
+
+In addition, since we have done very little work with blockchain, we will take advantage of any feedback available from the industry partners at Dandelion Networks. We can also direct questions to our TA, Deepkamal, who has a significantly deeper understanding of blockchain technology. We have also been learning more about blockchain in our own time, including reading articles, watching videos, and listening to podcasts.
+
+### Unconscious Bias
+
+There are a few key areas that our team may experience bias. 
+
+Since we are working in a group setting, we need to be aware of possible peer biases including conformity bias and the contrast effect. As most of our team members did not know each other prior to this startup, we could become subject to conformity bias in fear of looking inexperienced to our teammates. We intend to circumvent this possibility by remaining honest and encouraging each other to be open and vocal of each other's thoughts and ideas. 
+Moreover, we will be mindful of possible avenues that can lead to the contrast effect, especially when it comes time for user research. We want to avoid any distortions in perception that can happen when comparing things, consciously or unconsciously. We can mitigate this bias by spacing out comparable events in user research to avoid unnecessary contrasts. 
+
+An unconscious bias in our team is our lack of experience with socio-economic diversity. Many of our members grew up in cities that are homogeneous in terms of race and economic status. This becomes a problem when we conduct user research and actually begin reaching out to SMEs, as we might be biased when framing the initial research questions, selecting which companies to interview, and interpreting the collected data. Due to our minimal experience with interacting with companies of smaller sizes, business owners from diverse demographics, and companies at varying stages of development, it is critical that we are cognizant of our biases when we reach that stage of research. As a team, due to physical limitations as a result of COVID-19, our current unconscious bias training will come in the form of continued research online, and consulting with experienced mentors who can identify weaknesses in our approach before we ultimately begin speaking with SMEs. 
+
+In addition, we may experience bias due to working remotely. Since lectures, coursework, research, and inevitably speaking with businesses will take place remotely, this will limit internal and external engagement and will likely affect our ability to make fair decisions. As a team, we plan on mitigating this internally by working on calls more often and in-person if the opportunity presents itself. When we begin reaching out to SMEs to collect data, we’ll consult with mentors and make sure we’re taking the necessary measures to mitigate the drawbacks of collecting this user data online. 
+
+Finally, we may struggle with bias due to our lack of experience as we are still early in our careers. Since much of the work we’re doing as a team is outside our comfort zone, this may hinder our ability to recognize valid opportunities and crucial feedback. We experienced this already when ideating and researching problems, as we were discouraged quite frequently from pursuing certain industries at the first sign of a problem. We plan to mitigate this throughout the course by consulting with teaching staff more often and actively adopting an open mindset.  
 
 ## Diversity
 
-Our team has a varied background, but we acknowledge that we do not have people experienced in/who are....
+We strongly believe in diversity and leveraging varied experiences to strengthen our team. As such, we have identified a few areas that we as a team lack in diversity.
 
-### How this can impact us
+One is that our team is quite homogenous when it comes to race and religion, as five out of six members identify as Chinese and do not practice any religion and one team member identifies as Middle Eastern and religious. As these two factors help inform our team culture, this lack of cultural diversity may limit our perspective on critical decisions. Likewise, it might influence and shape our communication as a team. Internally, this may not become a problem so long as we are cognizant and respectful, but it might impact how we strategize our external communication. We plan on remedying this by consulting with the teaching staff on any weaknesses in communication they can identify, and having individual members push back more often when it comes to salient decisions. 
 
-A potential impact of this is...
+Another area that our team lacks diversity in is our educational backgrounds. All members are pursuing undergraduate degrees in Computer Science and come from a background that values higher education. There is an immense amount of diversity when it comes to SMEs and the people behind them and if we’re not cognizant of this attribute of our team, we may unintentionally alienate certain employers with how we gather user research and present our solution. Similar to above, we want to mitigate this issue proactively and consult the necessary resources and mentors before we make any critical decision on our product and begin collecting user research. 
 
-People with backgrounds that differ from out own can help us in the THEME industry because...
+Despite these factors, we also recognize how our team is quite diverse with some internal dimensions such as gender and sexual orientation, as well as many external dimensions including immigration status and recreational habits. We consider these factors a strength and want to use our multifaceted lived experiences to help guide our teams’ culture and decision-making while also keeping in mind that our teams’ diversity is limited.  Our team values keeping an open mind and understanding that there may be attributes where our respective privileges have allowed us to overlook. It is important that our MVP provides a fair experience to all people regardless of their race, sexual identity, disability or lack-thereof, gender, or any other attribute that would contradict our values in diversity and inclusion. Ultimately, our aim is to deliver the best solution possible and we want to leverage our combined experiences to that as a team.
