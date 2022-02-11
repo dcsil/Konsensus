@@ -10,13 +10,24 @@ This describes our plans...
 
 ## Short Term
 
-**Duration:** Q3 2019
+**Duration:** Q1 2022
 
-We intend to ship X, Y, Z - list tracking issues that encompass all details.
+- Draft and Pitch Customer Value Proposition
+- Create Financials Modeling and Projections report
+- 
+
+Milestone: UX Resea 
+- Build the first prototype using Figma:
+- Conduct user research and validation on prototype: [#47](https://github.com/dcsil/Konsensus/issues/47), 
+- Set up and demo CI system:
+- Set up user authentication:
 
 ## Medium Term
 
-**Duration:** Q4 2019
+- Create business plan report
+- Build MVP with 4 use cases 
+
+**Duration:** Q2 2022 - Q3 2022
 
 We intend to... medium-level of detail plans.
 
@@ -24,6 +35,6 @@ We plan to launch a barebones alpha version in the medium term.
 
 ## Long Term
 
-**Duration:** 2020
+**Duration:** Q4 2022 - 2023
 
 We intend to... high level plans
