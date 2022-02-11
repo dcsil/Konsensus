@@ -43,5 +43,9 @@ Milestone: MVP Development and Deployment
 ## Long Term
 
 **Duration:** Q4 2022 - 2023
+These are goals that we aim to tackle once product development has neared completion.
 
-We intend to... high level plans
+- Raise funding and establish investor relations
+- Build more features that support additional file types
+- Look into integrating our service on onto existing file storage services
+- Obtain third party security audits
