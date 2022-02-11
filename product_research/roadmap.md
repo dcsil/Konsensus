@@ -28,9 +28,6 @@ Milestone: UI/UX Development
 We plan to launch a barebones alpha version in the medium term. This version should have slimmed down versions of our core features.
 
 - Create business plan report
-- Build the first prototype using Figma
-- Set up and demo CI system
-- Conduct user research and validation on initial prototype: [#47](https://github.com/dcsil/Konsensus/issues/47)
 - Connect application to Ethereum through smart contracts
 - Conduct preliminary user testing
 - Explore funding options after MVP launch
