@@ -14,7 +14,7 @@ Table of Contents
 - [Product & Research](./product_research/)
     - [Market](./product_research/market.md)
     - [Roadmap](./product_research/roadmap.md)
-- [Architecture](high-level-architecture)
+- [Architecture](#high-level-architecture)
 
 High-Level Architecture
 ---
