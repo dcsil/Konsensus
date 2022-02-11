@@ -12,20 +12,31 @@ This describes our plans...
 
 **Duration:** Q1 2022
 
+### Business
 - Draft and Pitch Customer Value Proposition
 - Create Financials Modeling and Projections report
-- 
 
-Milestone: UX Resea 
+### Tech Stack Decisions
+- Create use cases and low-fidelity sketches for MVP: f
+- Discuss tech stack and create initial app architecture diagrams: 
+
+### Initial Prototype and UX Research 
 - Build the first prototype using Figma:
-- Conduct user research and validation on prototype: [#47](https://github.com/dcsil/Konsensus/issues/47), 
+- Conduct user research and validation on prototype: [#47](https://github.com/dcsil/Konsensus/issues/47)
+
+### Environment Setup
+- Set up developer environment
 - Set up and demo CI system:
+- Deploy web app to production
+- Set up exception tracking
+- Set up logging to external system
+
 - Set up user authentication:
 
 ## Medium Term
 
 - Create business plan report
-- Build MVP with 4 use cases 
+- Build and Demo MVP
 
 **Duration:** Q2 2022 - Q3 2022
 
