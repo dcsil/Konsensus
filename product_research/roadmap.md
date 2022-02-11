@@ -12,16 +12,26 @@ This describes our plans...
 
 **Duration:** Q1 2022
 
-- Draft and Pitch Customer Value Proposition
-- User research and validation
-- Create Financials Modeling and Projections report
+Business:
+- Draft and Pitch Customer Value Proposition: [#51](https://github.com/dcsil/Konsensus/issues/51), [#52](https://github.com/dcsil/Konsensus/issues/52)
+- Create Financials Modeling and Projections report [#53](https://github.com/dcsil/Konsensus/issues/53)
 - Deploy app and DB on Elastic Beanstalk
 
-Milestone: UI/UX Development
-- Build the first prototype using Figma:
-- Conduct user research and validation on prototype: [#47](https://github.com/dcsil/Konsensus/issues/47), 
-- Set up and demo CI system:
-- Set up user authentication:
+Tech Stack Decisions:
+- Create use cases and low-fidelity sketches for MVP: [#36](https://github.com/dcsil/Konsensus/issues/36), [#38](https://github.com/dcsil/Konsensus/issues/38), [#39](https://github.com/dcsil/Konsensus/issues/39), [#41](https://github.com/dcsil/Konsensus/issues/41)
+- Discuss tech stack and create initial app architecture diagrams: [#42](https://github.com/dcsil/Konsensus/issues/42), [#28](https://github.com/dcsil/Konsensus/issues/28), [#43](https://github.com/dcsil/Konsensus/issues/43)
+
+Initial Prototype and UX Research:
+- Build the first prototype using Figma: [#47](https://github.com/dcsil/Konsensus/issues/47)
+- Conduct user research and validation on prototype: [#50](https://github.com/dcsil/Konsensus/issues/50)
+
+Environment Setup:
+- Set up developer environment: https://github.com/dcsil/konsensus-app/issues/4
+- Set up and demo CI system: https://github.com/dcsil/konsensus-app/issues/2, https://github.com/dcsil/konsensus-app/issues/3
+- Deploy web app to production: https://github.com/dcsil/konsensus-app/issues/5
+- Set up exception tracking and logging to external system: https://github.com/dcsil/konsensus-app/issues/6
+
+- Set up user authentication: https://github.com/dcsil/konsensus-app/issues/7
 
 ## Medium Term
 **Duration:** Q2 2022 - Q3 2022
