@@ -1,12 +1,6 @@
 # Roadmap
 
-This describes our plans...
-
-- Setup a roadmap for at least the duration of this course. You may go longer to indicate long term goals. The roadmap can include as much detail as you want with the following conditions:
-    - Must include your immediate next steps
-    - Must include plans to perform user research
-    - Must include low-fidelity plans for a launch date
-    - You fill in the gaps. Be careful not to go too detailed as we have limited knowledge still.
+This roadmap describes our plan in the short, medium, and long term. We have also used Github Milestones to categorize and create deadlines for our issues.
 
 ## Short Term
 
@@ -35,10 +29,10 @@ This describes our plans...
 
 ## Medium Term
 
+**Duration:** Q2 2022 - Q3 2022
+
 - Create business plan report
 - Build and Demo MVP
-
-**Duration:** Q2 2022 - Q3 2022
 
 We intend to... medium-level of detail plans.
 
