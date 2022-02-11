@@ -14,3 +14,8 @@ Table of Contents
 - [Product & Research](./product_research/)
     - [Market](./product_research/market.md)
     - [Roadmap](./product_research/roadmap.md)
+- [Architecture](#high-level-architecture)
+
+High-Level Architecture
+---
+![image](https://user-images.githubusercontent.com/55229818/153516411-c65909d3-572f-4d2a-8736-52f3913314e8.png)
