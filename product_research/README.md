@@ -8,3 +8,4 @@ Table of Contents
 
 - [Market](./market.md)
 - [Roadmap](./roadmap.md)
+- [Stack and Decisions](./techstack.md)
