@@ -11,8 +11,8 @@ Business:
 - Create Financials Modeling and Projections report [#53](https://github.com/dcsil/Konsensus/issues/53)
 
 Tech Stack Decisions:
-- Create use cases and low-fidelity sketches for MVP: [#36](https://github.com/dcsil/Konsensus/issues/36), [#38](https://github.com/dcsil/Konsensus/issues/38), [#39](https://github.com/dcsil/Konsensus/issues/39), [#41](https://github.com/dcsil/Konsensus/issues/41)
-- Discuss tech stack and create initial app architecture diagrams: [#42](https://github.com/dcsil/Konsensus/issues/42), [#28](https://github.com/dcsil/Konsensus/issues/28), [#43](https://github.com/dcsil/Konsensus/issues/43)
+- Create use cases and low-fidelity sketches for MVP: [#28](https://github.com/dcsil/Konsensus/issues/28), [#36](https://github.com/dcsil/Konsensus/issues/36), [#38](https://github.com/dcsil/Konsensus/issues/38), [#39](https://github.com/dcsil/Konsensus/issues/39), [#41](https://github.com/dcsil/Konsensus/issues/41)
+- Discuss tech stack and create initial app architecture diagrams: [#42](https://github.com/dcsil/Konsensus/issues/42), [#43](https://github.com/dcsil/Konsensus/issues/43)
 
 Initial Prototype and UX Research:
 - Build the first prototype using Figma: [#47](https://github.com/dcsil/Konsensus/issues/47)
