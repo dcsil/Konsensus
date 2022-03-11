@@ -18,4 +18,4 @@ Table of Contents
 
 High-Level Architecture
 ---
-![image](https://user-images.githubusercontent.com/55229818/153516411-c65909d3-572f-4d2a-8736-52f3913314e8.png)
+<img width="1316" alt="image" src="https://user-images.githubusercontent.com/55229818/157791914-3df24e96-ac9e-412c-aca5-8062f03732be.png">
