@@ -1,5 +1,8 @@
 Demo
 ---
+## Video
+https://www.youtube.com/watch?v=GnV0Zo0L9X8&feature=youtu.be
+
 ## Web App
 https://konsensus-client.herokuapp.com/
 
@@ -10,6 +13,8 @@ User 1:
 User 2:
 - username: stella@gmail.com
 - password: 123456
+
+Metamask and Ganache must be running in the background to connect to the blockchain.
 
 ## Current Functionality:
 - Register
