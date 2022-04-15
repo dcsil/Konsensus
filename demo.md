@@ -4,12 +4,12 @@ Demo
 https://konsensus-client.herokuapp.com/
 
 User 1:
-- username:
-- password:
+- username: Julian@gmail.com
+- password: Windsoriscool
 
 User 2:
-- username:
-- password
+- username: stella@gmail.com
+- password: 123456
 
 ## Current Functionality:
 - Register
